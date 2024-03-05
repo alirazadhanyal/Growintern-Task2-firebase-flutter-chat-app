@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "124352551789",
+    "project_id": "growintern-chat-app",
+    "storage_bucket": "growintern-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124352551789:android:45e8aad2d35818a7ac1864",
+        "android_client_info": {
+          "package_name": "com.growintern.say_hi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-Z79Cf3VwXWrGlqnPCoLEDye_pQ2RuYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
